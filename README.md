@@ -1,16 +1,17 @@
-## Hi there 👋
+##Hi, I'm Apoorva✨
 
-<!--
-**apoorva-n-v/apoorva-n-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology student | Building toward an international M.Tech in AI/ML
 
-Here are some ideas to get you started:
+🚀 Currently building **EUNOIA** — an AI-powered multilingual platform with Family Bridge Mode and real-time crisis detection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 ML Intern @ CodeAlpha — working on Credit Scoring, Emotion Recognition, and Handwritten Character Recognition models
+
+📜 Certifications: Tata iQ GenAI-Powered Data Analytics Job Simulation (Forage) | Deloitte Technology Job Simulation
+
+🛠️ Languages & Tech: Python | C | C++ | Graphics Programming | MySQL
+
+🌱 Currently exploring: Agentic AI, LLM applications, and multilingual NLP systems
+
+🎯 Goal: Exploring how AI can solve real human problems — still shaping the exact path
+
+📫 Let's connect — always open to collaborating on AI for good projects
